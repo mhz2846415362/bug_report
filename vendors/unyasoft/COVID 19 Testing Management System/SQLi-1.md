@@ -2,8 +2,6 @@
 
 BUG_Author: hertz216
 
-Website source address：https://www.sourcecodester.com/htmlcss/15055/covid-19-testing-management-system-ctms.html
-
 Vulnerability File: /covid-tms/patient-report.php
 
 POST parameter 'searchdata' exists SQL injection vulnerability
